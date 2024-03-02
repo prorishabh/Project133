@@ -1,0 +1,28 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+
+.link
+{
+    background-color:cyan;
+    width: 80px;
+    border-radius: 10px;
+    float: right;
+}
+
+canvas
+{
+    box-shadow: 7px 7px 20px orange;
+    border-radius: 10px;
+}
+
